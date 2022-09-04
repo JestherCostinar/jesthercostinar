@@ -98,6 +98,12 @@ b, strong {
   background: #474559;
   color: #ffffff;
 }
+
+.custom-btn.custom-btn-bg-white {
+  background: #ffffff;
+  border: 1px solid #474559;
+}
+
 .custom-btn.custom-btn-bg:hover {
   background: #ffc200;
   color: #ffffff !important;
@@ -588,4 +594,11 @@ b, strong {
     vertical-align: top;
   }
 }
+.btn-glyphicon { padding:8px; background:#ffffff; margin-right:4px; }
 
+.icon-btn { padding: 1px 15px 3px 2px; border-radius:200px; border: 1px solid #ccc;}
+
+.stacks {
+  cursor: default;
+  pointer-events: none;
+}
