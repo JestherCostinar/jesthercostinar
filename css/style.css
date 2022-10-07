@@ -1,13 +1,7 @@
-/*
-
-Tooplate 2115 Marvel
-
-https://www.tooplate.com/view/2115-marvel
-
-*/
-
-
+/* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
+
+
 body {
   font-family: "Maven Pro", sans-serif;
   padding-top: 70px;
